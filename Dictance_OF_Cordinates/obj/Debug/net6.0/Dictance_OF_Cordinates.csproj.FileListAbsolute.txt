@@ -1,0 +1,15 @@
+C:\Users\нурик\Desktop\HomeworksN3\Dictance_OF_Cordinates\bin\Debug\net6.0\Dictance_OF_Cordinates.exe
+C:\Users\нурик\Desktop\HomeworksN3\Dictance_OF_Cordinates\bin\Debug\net6.0\Dictance_OF_Cordinates.deps.json
+C:\Users\нурик\Desktop\HomeworksN3\Dictance_OF_Cordinates\bin\Debug\net6.0\Dictance_OF_Cordinates.runtimeconfig.json
+C:\Users\нурик\Desktop\HomeworksN3\Dictance_OF_Cordinates\bin\Debug\net6.0\Dictance_OF_Cordinates.dll
+C:\Users\нурик\Desktop\HomeworksN3\Dictance_OF_Cordinates\bin\Debug\net6.0\Dictance_OF_Cordinates.pdb
+C:\Users\нурик\Desktop\HomeworksN3\Dictance_OF_Cordinates\obj\Debug\net6.0\Dictance_OF_Cordinates.csproj.AssemblyReference.cache
+C:\Users\нурик\Desktop\HomeworksN3\Dictance_OF_Cordinates\obj\Debug\net6.0\Dictance_OF_Cordinates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\нурик\Desktop\HomeworksN3\Dictance_OF_Cordinates\obj\Debug\net6.0\Dictance_OF_Cordinates.AssemblyInfoInputs.cache
+C:\Users\нурик\Desktop\HomeworksN3\Dictance_OF_Cordinates\obj\Debug\net6.0\Dictance_OF_Cordinates.AssemblyInfo.cs
+C:\Users\нурик\Desktop\HomeworksN3\Dictance_OF_Cordinates\obj\Debug\net6.0\Dictance_OF_Cordinates.csproj.CoreCompileInputs.cache
+C:\Users\нурик\Desktop\HomeworksN3\Dictance_OF_Cordinates\obj\Debug\net6.0\Dictance_OF_Cordinates.dll
+C:\Users\нурик\Desktop\HomeworksN3\Dictance_OF_Cordinates\obj\Debug\net6.0\refint\Dictance_OF_Cordinates.dll
+C:\Users\нурик\Desktop\HomeworksN3\Dictance_OF_Cordinates\obj\Debug\net6.0\Dictance_OF_Cordinates.pdb
+C:\Users\нурик\Desktop\HomeworksN3\Dictance_OF_Cordinates\obj\Debug\net6.0\Dictance_OF_Cordinates.genruntimeconfig.cache
+C:\Users\нурик\Desktop\HomeworksN3\Dictance_OF_Cordinates\obj\Debug\net6.0\ref\Dictance_OF_Cordinates.dll
